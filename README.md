@@ -83,13 +83,3 @@ func main() {
     }
 }
 ```
-
-### Putting It All Together
-
-To complete this project, you would need to:
-
-1. Implement the missing parts of each module, especially around network discovery and error handling.
-2. Ensure you have the necessary permissions and follow ethical guidelines when scanning networks and modifying remote systems.
-3. Test each component individually before integrating them to identify and resolve any issues early in the development process.
-
-This example provides a framework to start from, but real-world applications of such a tool require careful attention to security, efficiency, and reliability.
